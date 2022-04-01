@@ -1,0 +1,8 @@
+discord.py
+discord.ext
+asyncio
+pillow
+io
+requests
+json
+DiscordUtils
