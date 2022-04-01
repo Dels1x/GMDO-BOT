@@ -3,7 +3,7 @@ import os
 from discord.ext import commands
 
 
-token = os.environ['bot_token']
+token = "OTMyOTQ3MzUzMzIzODUxODI2.YeaY7g.iwlIkWh3jMiEKBdzazlsHvhFeuI"
 
 intents = discord.Intents.default()
 intents.members = True
