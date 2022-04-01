@@ -3,5 +3,4 @@ discord
 asyncio
 pillow
 requests
-json
 DiscordUtils
